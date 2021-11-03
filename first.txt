@@ -2,3 +2,4 @@ Gitの練習を行う
 修正をかけました。
 Git add
 Git commit
+Git rm
